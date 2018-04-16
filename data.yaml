@@ -1,0 +1,182 @@
+---
+update_time: '2018.04.01'
+name: 秦志超
+nickname: Kris
+meta_content: js爱好者
+keywords: 秦志超,前端,工作,简历
+ga_id: 'UA-92595311-1'
+age: 24岁
+gender: 男
+school: 湖南理工学院
+profession: 计算机科学与技术
+grade: 毕业一年
+english_level: 
+blog: 
+github: https://github.com/individualistloner
+website: 
+online: 
+print: https://xiao555.github.io/Resume/print.html
+apply_to_position: Web前端工程师
+description: !!md |
+  我叫秦志超，毕业于湖南理工学院，现就职于深圳市万商联购信息科技有限公司，负责前端开发。熟练使用web前端各项技术，熟悉后端golang，。能折腾，喜欢在实践中学习，喜欢阅读源码了解底层，在不断的跳坑脱坑中进步。希望在工作中能应用到自己所学的东西，跟产品一同成长。
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: 15580102154@163.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '395899354'
+  -
+    icon: fa-phone-square
+    name: PhoneNumber
+    value: '18682239947'
+honor: # 奖项荣誉
+    name 大学生创新创业三等级
+tech: # 技能点
+  -
+    name: HTML/CSS
+    percentage: 80%
+  -
+    name: JavaScript
+    percentage: 90%
+  -
+    name: vue
+    percentage: 70%
+  -
+    name: Git/svn
+    percentage: 60%
+  -
+    name: golang
+    percentage: 50%
+  -
+    name: 数据库
+    percentage: 30%  
+experience: # 项目经验
+  -
+    section: 个人项目
+    project:
+      -
+        name: ife
+        date: 2017.4
+        img:
+        website:
+        source_code: https://github.com/individualistloner/-
+        des: !!md |
+          根据百度前端学院的课程所做的js训练计划。
+      -
+        name: 秦志超的个人博客（未完成）
+        date: 2017.10-至今
+        img:
+        website:
+        source_code: https://github.com/individualistloner/QZC-BLOG
+        des: !!md |
+          用来练手Vue的项目，基于Koa2 + Vue2 + MongoDB  搭建的 前后端分离 + RESTful API + SSR 的博客系统，并且进行了性能优化，加快首屏渲染速度。
+      
+  -
+    section: 工作经历
+    exper:
+      - 
+        company: 深圳市万商联购信息科技有限公司
+        time: 2017.7-至今
+        desc: !!md |
+          公司主营业务为B2B商业模式服务批发平台。个人独立承担公司商城公众号前端以及小程序的开发，参与过公司app的部分功能开发。
+        project: 
+          -
+            name: 万商联购商城（公众号+app）
+            date:  2017.7-至今
+            img: 
+            website: https://api.10000shopping.com/
+            source_code: 
+            des: !!md |
+          -
+            des: !!md |
+              技术构成: httl5+css3 + JQ + underscorejs + gulp.js +svn + 腾讯大数据统计工具  + VUE + cordova
+          -
+            des: !!md |
+              业务需求：商城，专题类别，商品详情，购物车，下单，支付，订单详情，营销活动模块，会员系统，客服系统，供应商系统。
+          -
+            des: !!md |
+             技术上较以前成熟了许多，学会应用组件思想，大大减少了代码量。在以前的积累上，对于许多问题都已经遇到过，能够快速并熟练的给出解决方案。
+          -
+            des: !!md |
+             问题：该项目最初在JQ的基础上写，没有考虑到组件化已经功能公共函数的编写，造成后期开发维护难度加大。后期做了基本数据本地存储，减少数据访问。  
+          -
+            name: 万商联购（小程序）
+            date:  2017.11-2018.1
+            source_code: 
+            des: !!md |
+              该项目是商城的C2C模式。主要做的面向一般客户的零售系统。项目功能同商城大致一样。
+          - des: !!md |  
+              技术：考虑到开发成本以及小程序的简单程度，没有使用相应的框架，直接在原有的基础上整合一个简单的框架。
+          - des: !!md |   
+              问题：小程序的五层页面机制会带来相应的页面切换问题，还需要特别注意到页面的生命周期，保存相关的状态。
+      - 
+        company: 湖南中阳智能
+        time: 2017.2 - 2017.5
+        desc: 这家公司是湖南南大学一个老师的公司，我在其中主要参与前端开发。
+        project:
+          -
+            name: 智慧车辆管理系统
+            date: 2017.2 - 2017.5 
+            img: 
+            website: 
+            source_code:
+            des: !!md |
+              这个项目当时主要运用在湖南汨罗市环卫车辆控制系统，利用GPS导航和智能硬件对环卫车辆进行管理。
+          -
+            des: !!md |
+              技术构成：前端用到了JQ+bootstrap+百度地图API     
+          -
+            name: 汨水循环
+            date: 2017.2 - 2017.5 
+            img: 
+            website: 
+            source_code:
+            des: !!md |
+              这个项目路是又汨罗市政府主导的一个整合当地重金属大宗交易平台项目，主要做的是政府首页相关的新闻和公告通知以及大宗交易平台。
+          -
+            des: !!md |
+              技术构成：前端用到了JQ+bootstrap
+      - 
+        company: 深圳大虾网络科技有限公司
+        time: 2016.5-2016.11
+        desc: !!md |
+          大学期间还没有分前后端，这时候主要参与项目架构，数据库设计，前端组件编写。
+        project: 
+          -
+            name: 十号先生
+            date: '2016.5-2016.11'
+            img: 
+            website:
+            source_code: 
+            des: !!md |
+              这是我接手的第一个项目，主要编写“十号先生”商城项目的后台接口和前端，在这个项目中快速学习了golang处理后台接口的能力， 熟练使用原生js。
+          -
+            des: !!md |
+              技术构成：前端运用httl5+css3+原生js，部分功能用到了JQ和hummer.js，使用了golang搭建后台框架，数据库使用posotgresql，支付功能用到了pingxx
+          -
+            des: !!md |
+              业务需求：商城的首页展示，商品下拉类别，商品详情，购物车，下单，支付，订单详情，订单派送。
+          -
+            des: !!md |
+              在解决bug的过程中，也积累了不少经验，前端：利用js的面向对象编写原生ajax接口组件，使用localstorage保存用户状态和购物车数据，后台：订单状态改变使用了数据库的事务，快递计划派送用到了linux的计划任务。
+          -
+            des: !!md |
+              在开发的过程中，我会思考怎么实现是最好的，学会了同业务人员详细交流，避免二次开发设置多次开发。             
+      
+skill: # 技能清单
+      -
+        des: !!md |
+          能够用 HTML + CSS 编写语义化的代码，完成较复杂的布局，熟悉Stylus 等css预处理、后处理工具
+      -
+        des: !!md |
+          熟练原生js ，熟练jQuery, 在个人博客项目和万商联购app项目中熟悉了 Vue， 使用了 ES6、7 的新语法，
+      -
+        des: !!md |
+          熟悉 Git Webpack Gulp 等开发工具
+      -
+        des: !!md |    
+         写过后端项目，熟悉golang，了解nodejs，了解linux服务器和数据库.
+---
